@@ -1,0 +1,216 @@
+body {
+    padding: 2%;
+    background-image: url("multimedia/jack-b-ombUn7ergE4-unsplash.jpg");
+    font-weight: lighter;
+    font-size: 2px;
+    color: white;
+}
+
+.row strong {
+    /*entre os divisores das datas 2024 e 2025*/
+    display: block;
+    margin: 20px 0;
+    font-size: 1.8em;
+    text-align: center;
+    padding: 2px;
+    padding-bottom: 10px;
+}
+
+.icon-size {
+    /*icons redes sociais */
+    width: 25px;
+}
+
+.icon2-size {
+    /* icon copyright */
+    width: 15px;
+    height: 15px;
+}
+
+footer {
+    text-align: center;
+    font-size: 15px;
+    background-color: grey;
+    color:black;
+    margin: 15px;
+    margin-left: -2%;
+    margin-right: -2%;
+}
+
+.image2 {
+    /*Home Image */
+    max-width: 100%;
+    max-height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    width: auto;
+}
+
+.carousel-inner img {
+    width: 60%;
+    align-items: center;
+    height: auto;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
+
+.icon-size3 {
+    /*EP*/
+    width: 320px;
+    height: 250px;
+    margin: 10px 0;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.image1 {
+    /*logotipo*/
+    max-width: 13%;
+    max-height: 13%;
+    display: flex;
+    height: 25vh;
+    width: auto;
+    height: auto;
+}
+
+
+.Imagem1 {
+    /*Separador Fotos, imagem 1 */
+    width: auto;
+    height: auto;
+    justify-content: center;
+    display: flex;
+}
+
+.container1 {
+    /* youtube, etc */
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 3px;
+    padding: 12px;
+    flex-direction: column;
+    color: white;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.container2 {
+    /*compra o nosso EP, etc */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 3px;
+    padding: 8px;
+    flex-direction: column;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.container {
+    /* container dos cards das fotografias*/
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    color: black;
+    font-weight: lighter;
+    font-size: 18px;
+    padding: 12px;
+}
+
+.container4 {
+    /* container texto site */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    color: white;
+    font-weight: lighter;
+    font-size: 18px;
+    margin: 20px;
+    padding: 20px;
+}
+
+.container5 {
+    /* conhece os membros da banda */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    margin: 40px;
+    padding: 10px;
+}
+
+.form{
+    /* conhece os membros da banda */
+    display: flex;
+    align-items: left;
+    justify-content: left;
+    flex-direction: column;
+    color: white;
+    font-size: 20px;
+    margin: 10px;
+    padding: 1px;
+}
+
+.btn{
+    width: 120px;
+    height: 40px;
+}
+.container3 {
+    /* termos e condições */
+    color: white;
+    font-size: 8px;
+    margin: 40px;
+    padding: 10px;
+}
+.container6 { 
+    color: white;
+    font-size: 18px;
+    margin: 10px;
+    padding: 6px;
+    width: auto;
+}
+
+.modal-title {
+    color: black;
+    font-size: 20px;
+    font-weight: lighter;
+}
+
+
+.modal-body {
+    color: black;
+    font-size: 15px;
+    font-weight: lighter;
+    justify-content:space-around;
+}
+
+.container7{
+    display: flex;
+    color: white;
+    font-size: 12px;
+}
+
+.container8 { 
+    color: white;
+    font-size: 14px;
+    margin: 10px;
+    margin-left: 0.5%;
+    margin-right: -2%;
+}
